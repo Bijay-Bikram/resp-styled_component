@@ -4,7 +4,7 @@
 - Styled Components 
     - use media queries
     - use GlobalStyle
-    - use theme
-    - use nested class
+    - use ThemeProvider
+    - use Nested classes
 
 
