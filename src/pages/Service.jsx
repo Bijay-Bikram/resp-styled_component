@@ -29,7 +29,7 @@ const Service = () => {
                                     </figure>
                                     <div className='card-data'>
                                         <h3 className='topic'>{title}</h3>
-                                        <p >{description}</p>
+                                        <p className='card-desc' >{description}</p>
                                         <Button className='btn'>Read More</Button>
                                     </div>
                                 </div>
@@ -96,6 +96,9 @@ const Wrapper = styled.section`
 
                 .topic{
                 margin-top: 1rem;
+            }
+            .card-desc{
+            font-size:1rem;
             }
         }
            
