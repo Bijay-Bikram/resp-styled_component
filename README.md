@@ -1,6 +1,6 @@
-## This project teach me how to use Styled Components for responsive web.
+## This project teaches, how to use Styled Components for responsive website.
 
-### Others features that i have learned:
+### Others features:
 - Styled Components 
     - use media queries
     - use GlobalStyle
