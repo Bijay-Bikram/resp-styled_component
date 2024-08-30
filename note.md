@@ -1,5 +1,5 @@
 ## 1. Navlink doesn't reload the page
-"<NavLink>" will only re-render updated components matched with the URL path of the Route without reloading page<br>
+Navlink will only re-render updated components matched with the URL path of the Route without reloading page<br>
 
 ## 2. GlobalStyle in styled components:
 - We can create GlobalStyles in external js file from styled-components<br>
